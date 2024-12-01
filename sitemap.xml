@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://growthandfun.github.io/</loc>
+    <loc>https://suryasiriki1.github.io/</loc>
     <lastmod>2024-12-01T12:04:04+05:30</lastmod>
   </url><url>
-    <loc>https://growthandfun.github.io/posts/onmyvalues/</loc>
+    <loc>https://suryasiriki1.github.io/posts/onmyvalues/</loc>
     <lastmod>2024-12-01T12:04:04+05:30</lastmod>
   </url><url>
-    <loc>https://growthandfun.github.io/posts/</loc>
+    <loc>https://suryasiriki1.github.io/posts/</loc>
     <lastmod>2024-12-01T12:04:04+05:30</lastmod>
   </url><url>
-    <loc>https://growthandfun.github.io/categories/</loc>
+    <loc>https://suryasiriki1.github.io/archive/</loc>
   </url><url>
-    <loc>https://growthandfun.github.io/tags/</loc>
+    <loc>https://suryasiriki1.github.io/blog/</loc>
+  </url><url>
+    <loc>https://suryasiriki1.github.io/categories/</loc>
+  </url><url>
+    <loc>https://suryasiriki1.github.io/series/</loc>
+  </url><url>
+    <loc>https://suryasiriki1.github.io/tags/</loc>
   </url>
 </urlset>
